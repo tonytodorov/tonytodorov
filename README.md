@@ -14,7 +14,7 @@ public static void aboutMe() {
 ```
 
 ## ⚡GitHub Stats
-<a href="https://github.com/kalintsenkov">
+<a href="https://github.com/tonytodorov">
   <img height="140em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonytodorov&langs_count=6&layout=compact&bg_color=00000000&text_color=3498db&hide_border=true&count_private=true&include_all_commits=true"/>
 </a>
 
