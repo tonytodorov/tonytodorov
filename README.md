@@ -1,6 +1,5 @@
 ### Hi, I am Tony Todorov! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=tonytodorov&color=blue)
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white&style=flat)](https://www.facebook.com/tonytodorovv/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/tony-todorov/) 
 
