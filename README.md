@@ -15,7 +15,7 @@ public static void aboutMe() {
 ## ⚡GitHub Stats
 <a href="https://github.com/tonytodorov">
         <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tonytodorov&bg_color=00000000&text_color=3498db&hide_border=true&count_private=true&include_all_commits=true"/>
-        <img height="160em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonytodorov&langs_count=6&layout=compact&bg_color=00000000&text_color=3498db&hide_border=true&count_private=true&include_all_commits=true" />
+        <img height="150em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonytodorov&langs_count=6&layout=compact&bg_color=00000000&text_color=3498db&hide_border=true&count_private=true&include_all_commits=true" />
 </a>
 
 
