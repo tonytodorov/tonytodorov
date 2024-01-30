@@ -8,7 +8,7 @@ public static void aboutMe() {
         String programmingLanguages = "Java";
         String education = "Software University (SoftUni)" + "University of Plovdiv, Faculty of Mathematics and Informatics";
         String hobbies = "Nature walk" + "Reading books" + "Volleyball";
-        String goals = "Programming!";
+        String goals = "To be better!";
     }
 ```
 
