@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/tony-todorov/) 
 
 ```java
-public void aboutMe() {
+public static void aboutMe() {
         String programmingLanguages = "Java";
         String education = "Software University (SoftUni)" + "University of Plovdiv, Faculty of Mathematics and Informatics";
         String hobbies = "Nature walk" + "Reading books" + "Volleyball";
