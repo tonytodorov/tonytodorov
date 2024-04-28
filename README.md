@@ -18,7 +18,7 @@ The project is a prototype of the popular board game Dungeon&Dragons. The game s
 You can find more information at the following link: [DungeonSecrets](https://github.com/summer-java-2021-rising-tigers)
 
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 👯 I’m currently open for work and employment opportunities.
+- 👨🏻‍💻 I’m currently open for work.
 - 📫 I am just one mail away - tonytodorov@protonmail.com
 - 😜 Fun facts: I love ... to play volleyball, walking in the mountain and read books.
 
