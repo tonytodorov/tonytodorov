@@ -11,7 +11,7 @@
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat&logo=elementor&logoColor=white)
 
-I am an independent and self-motivated Java Web Development student. I am involved in the development of a project related to recreating a board game. 
+I am an independent and self-motivated Java Web Development student. I have been involved in the development of a project related to the recreation of a board game.
 
 The project is a prototype of the popular board game Dungeon&Dragons. The game starts with the creation of a character, after that he has to kill a certain number of monsters to advance to the next level. During this time, the character can collect items with which can create weapons, armor for his main purpose - to kill final monster. My main responsibility was database development.
 
