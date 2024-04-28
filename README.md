@@ -21,7 +21,7 @@ I love to read books and listen to music.
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities.
 - 📫 I am just one mail away - tonytodorov@protonmail.com
-- 😜 Fun fact: 🏐 I love to play volleyball, 🏔️ I love walking in the mountain, 📚 I love to read books.
+- 😜 Fun facts: 🏐 I love to play volleyball, 🏔️ I love walking in the mountain, 📚 I love to read books.
 
 ### Numbers
 ![tonytodorov's Stats](https://github-readme-stats.vercel.app/api?username=tonytodorov&theme=darcula&show_icons=true&hide_border=true&count_private=true)
