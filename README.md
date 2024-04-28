@@ -1,28 +1,36 @@
-### Hi, I am Tony Todorov! 👋
+<h1><img src="https://slackmojis.com/emojis/6910-blob_smile/download" width="25"/> Hey! Nice to see you.</h1>
 
-[![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white&style=flat)](https://www.facebook.com/tonytodorovv/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/tony-todorov/) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=flat&logo=neo4j&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat&logo=elementor&logoColor=white)
 
-```java
-public static void aboutMe() {
-        String programmingLanguages = "Java";
-        String education = "Software University (SoftUni)" + "University of Plovdiv, Faculty of Mathematics and Informatics";
-        String hobbies = "Nature walk" + "Reading books" + "Volleyball";
-        String goals = "To be better!";
-    }
-```
+I am an independent and self-motivated Java Web Development student. I am involved in the development of a project related to recreating a board game. 
 
-## ⚡GitHub Stats
-<a href="https://github.com/tonytodorov">
-        <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tonytodorov&bg_color=00000000&text_color=3498db&hide_border=true&count_private=true&include_all_commits=true"/>
-        <img height="150em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonytodorov&langs_count=6&layout=compact&bg_color=00000000&text_color=3498db&hide_border=true&count_private=true&include_all_commits=true" />
-</a>
+The project is a prototype of the popular board game Dungeon&Dragons. The game starts with the creation of a character, after that he has to kill a certain number of monsters to advance to the next level. During this time, the character can collect items with which can create weapons, armor for his main purpose - to kill final monster. My main responsibility was database development.
 
+You can find more information at the following link: [DungeonSecrets](https://github.com/summer-java-2021-rising-tigers)
 
+I love to read books and listen to music.
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 👯 I’m currently open for work and employment opportunities.
+- 📫 I am just one mail away - tonytodorov@protonmail.com
+- 😜 Fun fact: 🏐 I love to play volleyball, 🏔️ I love walking in the mountain, 📚 I love to read books.
 
+### Numbers
+![tonytodorov's Stats](https://github-readme-stats.vercel.app/api?username=tonytodorov&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
+![tonytodorov's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tonytodorov&theme=darcula&hide_border=true)
 
+![tonytodorov's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonytodorov&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
+### Where to find me
 
-
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonytodorov) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/tonytodorovv)
