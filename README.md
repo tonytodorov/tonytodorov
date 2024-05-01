@@ -23,13 +23,9 @@ You can find more information at the following link: [DungeonSecrets](https://gi
 - 😜 Fun facts: I love ... to play volleyball, walking in the mountain and read books.
 
 ### Numbers
-![tonytodorov's Stats](https://github-readme-stats.vercel.app/api?username=tonytodorov&theme=darcula&show_icons=true&hide_border=true&count_private=true)
-
-![tonytodorov's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tonytodorov&theme=darcula&hide_border=true)
-
-![tonytodorov's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonytodorov&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+| ![tonytodorov's Stats](https://github-readme-stats.vercel.app/api?username=tonytodorov&theme=darcula&show_icons=true&hide_border=true&count_private=true)  |  ![tonytodorov's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tonytodorov&theme=darcula&hide_border=true)  | 
+|  -------  |  -------  |
 
 ### Where to find me
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-todorov/) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/tonytodorovv)
