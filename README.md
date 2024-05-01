@@ -22,7 +22,7 @@ You can find more information at the following link: [DungeonSecrets](https://gi
 - 📫 I am just one mail away - tonytodorov@protonmail.com
 - 😜 Fun facts: I love ... to play volleyball, walking in the mountain and read books.
 
-### Statistics
+### Numbers
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=tonytodorov&theme=darcula&bg_color=00000000&show_icons=true&hide_border=true&count_private=true" style="width: 48%;">
