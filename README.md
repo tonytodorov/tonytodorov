@@ -24,11 +24,11 @@ You can find more information at the following link: [DungeonSecrets](https://gi
 
 ### Statistics
 
-![tonytodorov's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonytodorov&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=tonytodorov&theme=darcula&bg_color=00000000&show_icons=true&hide_border=true&count_private=true" style="width: 48%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tonytodorov&langs_count=8&layout=compact&theme=darcula&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true&include_all_commits=true" style="width: 38%;">
+</div>
 
-![tonytodorov's Stats](https://github-readme-stats.vercel.app/api?username=tonytodorov&theme=darcula&show_icons=true&hide_border=true&count_private=true)   
-
-![tonytodorov's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tonytodorov&theme=darcula&hide_border=true)
 
 ### Where to find me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-todorov/) 
