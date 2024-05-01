@@ -11,7 +11,7 @@
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat&logo=elementor&logoColor=white)
 
-I am an independent and self-motivated Java Web Development student. I have been involved in the development of a project related to the recreation of a board game.
+I am a self-motivated Java Web Development student. I have been involved in the development of a project related to the recreation of a board game.
 
 The project is a prototype of the popular board game Dungeon&Dragons. The game starts with the creation of a character, after that he has to kill a certain number of monsters to advance to the next level. During this time, the character can collect items with which can create weapons, armor for his main purpose - to kill final monster. My main responsibility was database development.
 
@@ -22,9 +22,13 @@ You can find more information at the following link: [DungeonSecrets](https://gi
 - 📫 I am just one mail away - tonytodorov@protonmail.com
 - 😜 Fun facts: I love ... to play volleyball, walking in the mountain and read books.
 
-### Numbers
-| ![tonytodorov's Stats](https://github-readme-stats.vercel.app/api?username=tonytodorov&theme=darcula&show_icons=true&hide_border=true&count_private=true)  |  ![tonytodorov's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tonytodorov&theme=darcula&hide_border=true)  | 
-|  -------  |  -------  |
+### Statistics
+
+![tonytodorov's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonytodorov&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+
+![tonytodorov's Stats](https://github-readme-stats.vercel.app/api?username=tonytodorov&theme=darcula&show_icons=true&hide_border=true&count_private=true)   
+
+![tonytodorov's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tonytodorov&theme=darcula&hide_border=true)
 
 ### Where to find me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-todorov/) 
