@@ -26,7 +26,7 @@ You can find more information at the following link: [DungeonSecrets](https://gi
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=tonytodorov&theme=darcula&bg_color=00000000&show_icons=true&hide_border=true&count_private=true" style="width: 48%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tonytodorov&langs_count=8&layout=compact&theme=darcula&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true&include_all_commits=true" style="width: 48%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tonytodorov&langs_count=8&layout=compact&theme=darcula&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true&include_all_commits=true" style="width: 40%;">
 </div>
 
 
