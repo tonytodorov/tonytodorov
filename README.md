@@ -20,7 +20,7 @@ You can find more information at the following link: [DungeonSecrets](https://gi
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👨🏻‍💻 I’m currently open for work.
 - 📫 I am just one mail away - tonytodorov@protonmail.com
-- 😜 Fun facts: I love to ... play volleyball, play chess and to be in the mountain.
+- 😜 Fun facts: I love to ... play volleyball, play chess and to be in the nature.
   
 ### Statistics
 
