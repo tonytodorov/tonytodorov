@@ -9,6 +9,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=flat&logo=neo4j&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
 
 I am a self-motivated Java Web Development student. I have been involved in the development of a project related to the recreation of a board game.
 
